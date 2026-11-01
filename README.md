@@ -7,6 +7,6 @@ My contributions to the [30DayMapChallenge](https://30daymapchallenge.com) 2026
 
 ## Day 1 - Points
 The World of Formula 1 Circuits
-<img width="3507" height="2480" alt="DAY_1_POINTS" src="https://github.com/user-attachments/assets/592a4213-e2ff-451f-94d6-665d2537df79" />
+<img width="3507" height="2480" alt="DAY_1_POINTS" src="https://github.com/user-attachments/assets/6b1ce221-9bf4-4886-8a3f-94a5dd33ba91" />
 
 Circle size represents the number of Grands Prix hosted. Green indicates circuits featured in the 2026 season.
