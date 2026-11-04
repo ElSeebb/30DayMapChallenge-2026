@@ -16,3 +16,14 @@ Circle size represents the number of Grands Prix hosted. Green indicates circuit
 ## Day 2 - Lines
 In the Footsteps of the Longest Redyk in Poland(2026)
 <img width="3507" height="2480" alt="DAY_2_LINES" src="https://github.com/user-attachments/assets/3773cf5e-652c-4928-93d2-4027b3b9025d" />
+
+
+## Day 3 - Polygons
+Reimagined Poland
+<img width="3507" height="2480" alt="DAY_3_POLYGONS1" src="https://github.com/user-attachments/assets/028c231a-6e4b-4ad0-a74b-2e08ea3b4899" />
+
+
+
+## Day 4 - Clusters
+Where Business Concentrates in Poland
+<img width="1866" height="910" alt="Day_4_1" src="https://github.com/user-attachments/assets/a9ae0e7d-8ca0-41f2-af1f-ac0c702d6998" />
