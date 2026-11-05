@@ -27,3 +27,8 @@ Reimagined Poland
 ## Day 4 - Clusters
 Where Business Concentrates in Poland
 <img width="1866" height="910" alt="Day_4_1" src="https://github.com/user-attachments/assets/a9ae0e7d-8ca0-41f2-af1f-ac0c702d6998" />
+
+
+## Day 4 - Clusters
+Where Business Concentrates in Poland
+<img width="1920" height="1358" alt="day5_sight" src="https://github.com/user-attachments/assets/cfa065a1-c1fc-4e2e-8298-7307270ab407" />
