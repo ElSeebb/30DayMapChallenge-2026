@@ -29,6 +29,13 @@ Where Business Concentrates in Poland
 <img width="1866" height="910" alt="Day_4_1" src="https://github.com/user-attachments/assets/a9ae0e7d-8ca0-41f2-af1f-ac0c702d6998" />
 
 
-## Day 4 - Clusters
+## Day 5 - Senses: Sight
 Where Business Concentrates in Poland
 <img width="1920" height="1358" alt="day5_sight" src="https://github.com/user-attachments/assets/cfa065a1-c1fc-4e2e-8298-7307270ab407" />
+
+
+## Day 6 - Vintage
+Gdynia A Port in the Making
+<img width="1948" height="1417" alt="vintage1" src="https://github.com/user-attachments/assets/20e983bc-1d55-40ea-b737-4b3719c9471b" />
+
+
