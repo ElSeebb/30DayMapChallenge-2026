@@ -39,3 +39,6 @@ Gdynia A Port in the Making
 <img width="1948" height="1417" alt="vintage1" src="https://github.com/user-attachments/assets/20e983bc-1d55-40ea-b737-4b3719c9471b" />
 
 
+## Day 7 - 10 minute map
+Mountain Hubs (Crown of Polish Mountains)
+<img width="3507" height="2480" alt="7_day" src="https://github.com/user-attachments/assets/a1657fac-117f-41de-bbb5-4e389d6e95b5" />
